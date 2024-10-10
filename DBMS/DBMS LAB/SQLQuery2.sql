@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ACTNO]
+      ,[CNAME]
+      ,[BNAME]
+      ,[AMOUNT]
+      ,[ADATE]
+  FROM [CSE_3B_440].[dbo].[DEPOSIT]
